@@ -1,0 +1,9 @@
+This code is the companion code for the book "Test Driving iOS Development with Kiwi". It's sole purpose is to help you learn the material covered in the book.
+
+You can find out more about the book at http://editorscut.com.
+
+This code is presented as is. Please consult the book for copyright notices and legal warning. The copyrights in the book apply to this source code as well.
+
+If you like, you may use this source code in your own projects, however the code is presented as is. Dim Sum Thinking makes no guarantees that this source code is fit for any purpose other than as a learning aid.
+
+IMPORTANT: You will have to add Kiwi to the various projects to get them to run. I did not ship the Kiwi source code with these project files.
