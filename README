@@ -7,3 +7,5 @@ This code is presented as is. Please consult the book for copyright notices and 
 If you like, you may use this source code in your own projects, however the code is presented as is. Dim Sum Thinking makes no guarantees that this source code is fit for any purpose other than as a learning aid.
 
 IMPORTANT: You will have to add Kiwi to the various projects to get them to run. I did not ship the Kiwi source code with these project files.
+
+For the CalculatorStack projects you will drag the Kiwi/Kiwi folder in. For the RPNCalculator projects you will add the static library. Both techniques are described in the book.
